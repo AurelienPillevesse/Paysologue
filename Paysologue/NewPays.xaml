@@ -1,0 +1,145 @@
+﻿<Window x:Class="Paysologue.NewPays"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Paysologue"
+        Title="NewPays" Height="591.146" Width="760.938">
+
+    <Window.Background>
+        <ImageBrush ImageSource="App/WindowBackground5.jpg"/>
+    </Window.Background>
+
+    <Window.Resources>
+        <Style x:Key="Stylius">
+            <Setter Property="TextBlock.VerticalAlignment" Value="Center"/>
+            <Setter Property="TextBlock.FontSize" Value="14"/>
+            <Setter Property="TextBox.Margin" Value="5,15,5,5"/>
+            <Setter Property="TextBlock.Foreground" Value="White"/>
+        </Style>
+        <Style x:Key="StyliusBox">
+            <Setter Property="TextBlock.VerticalAlignment" Value="Center"/>
+            <Setter Property="TextBlock.FontSize" Value="14"/>
+            <Setter Property="TextBox.Margin" Value="5,5,15,5"/>
+        </Style>
+        <local:ErrorsToMessageConverter x:Key="EToMC" />
+    </Window.Resources>
+    
+    <Grid>
+
+        <DockPanel>
+            <TextBlock DockPanel.Dock="Top" HorizontalAlignment="Center" Padding="5,5,5,5" Margin="5,5,5,5" FontWeight="Bold" TextDecorations="underline" FontSize="18" Foreground="White">Ajouter un nouveau pays et une capitale</TextBlock>
+            <TextBlock DockPanel.Dock="Top" HorizontalAlignment="Center" Padding="5,5,5,5" Margin="5,5,5,5" TextDecorations="underline" FontSize="15" Foreground="White">Nouveau pays :</TextBlock>
+            <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Padding="3,3,3,3" Margin="5,5,5,5" Click="Valider_Click">Valider</Button>
+                <Button Padding="3,3,3,3" Margin="5,5,5,5" Click="Quitter_Click">Annuler</Button>
+            </StackPanel>
+
+            <Grid DockPanel.Dock="Top">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <TextBlock HorizontalAlignment="Right" Style="{StaticResource Stylius}">Nom :</TextBlock>
+                <TextBox Name="Nom" Grid.Column="1" Style="{StaticResource StyliusBox}">
+                    <TextBox.Text>
+                        <Binding Path="NewPays.Nom" Mode="OneWayToSource" UpdateSourceTrigger="PropertyChanged">
+                            <Binding.ValidationRules>
+                                <local:NotEmptyValidationRule/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>    
+                </TextBox>
+                <TextBlock Margin="2" Foreground="Red" FontWeight="Bold" Text="{Binding ElementName=Nom, Path=(Validation.Errors), Converter={StaticResource EToMC}}" />
+                
+                <TextBlock Grid.Row="1" HorizontalAlignment="Right" Style="{StaticResource Stylius}">Devise :</TextBlock>
+                <TextBox Grid.Row="1" Grid.Column="1" Style="{StaticResource StyliusBox}" Text="{Binding Path=NewPays.Devise, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+                <TextBlock Grid.Row="2" HorizontalAlignment="Right" Style="{StaticResource Stylius}">Nombres habitants :</TextBlock>
+                <TextBox Name="Pop" Grid.Row="2" Grid.Column="1" Style="{StaticResource StyliusBox}">
+                    <TextBox.Text>
+                        <Binding Path="NewPays.PopulationTot" Mode="OneWayToSource" UpdateSourceTrigger="PropertyChanged">
+                            <Binding.ValidationRules>
+                                <local:NotEmptyValidationRule/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+                <TextBlock Grid.Row="2" Margin="2" Foreground="Red" FontWeight="Bold" Text="{Binding ElementName=Pop, Path=(Validation.Errors), Converter={StaticResource EToMC}}" />
+                <TextBlock Grid.Row="3" HorizontalAlignment="Right" Style="{StaticResource Stylius}">Superficie :</TextBlock>
+                <TextBox Grid.Row="3" Grid.Column="1" Style="{StaticResource StyliusBox}" Text="{Binding Path=NewPays.SuperficieTot, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged, FallbackValue=0}"></TextBox>
+                <TextBlock Grid.Row="4" HorizontalAlignment="Right" Style="{StaticResource Stylius}">PIB :</TextBlock>
+                <TextBox Grid.Row="4" Grid.Column="1" Style="{StaticResource StyliusBox}" Text="{Binding Path=NewPays.PIB, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged, FallbackValue=0}"></TextBox>
+                <TextBlock Grid.Row="5" HorizontalAlignment="Right" Style="{StaticResource Stylius}">Chef de l'Etat actuel :</TextBlock>
+                <TextBox Name="Chef" Grid.Row="5" Grid.Column="1" Style="{StaticResource StyliusBox}">
+                    <TextBox.Text>
+                        <Binding Path="NewPays.ChefEtat" Mode="OneWayToSource" UpdateSourceTrigger="PropertyChanged">
+                            <Binding.ValidationRules>
+                                <local:NotEmptyValidationRule/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+                <TextBlock Grid.Row="5" Margin="2" Foreground="Red" FontWeight="Bold" Text="{Binding ElementName=Chef, Path=(Validation.Errors), Converter={StaticResource EToMC}}" />
+                <TextBlock Grid.Row="6" HorizontalAlignment="Right" Style="{StaticResource Stylius}">Drapeau :</TextBlock>
+                <Grid Grid.Row="6" Grid.Column="2" Grid.ColumnSpan="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Button Grid.Column="0" Content="Parcourir" HorizontalAlignment="Left" Click="Parcourir_Click" Name="ParcourirDrap" Margin="5,0,5,0" Padding="5,5,5,5"/>
+                    <StackPanel Grid.Column="1" Orientation="Horizontal">
+                        <TextBlock HorizontalAlignment="Left" Style="{StaticResource Stylius}">Carte :</TextBlock>
+                        <Button Content="Parcourir" HorizontalAlignment="Left" Click="Parcourir_Click" Name="ParcourirCarte" Margin="5,0,5,0" Padding="5,5,5,5"/>
+                    </StackPanel>
+                </Grid>
+
+                <TextBlock DockPanel.Dock="Top" HorizontalAlignment="Center" Padding="5,5,5,5" Margin="5,5,5,5" TextDecorations="underline" Grid.ColumnSpan="2" Grid.Row="7" FontSize="15" Foreground="White">Nouvelle capitale :</TextBlock>
+
+                <TextBlock DockPanel.Dock="Top" HorizontalAlignment="Right" Grid.Row="8" Style="{StaticResource Stylius}">Nom :</TextBlock>
+                <TextBox Grid.Column="1" Grid.Row="8" Style="{StaticResource StyliusBox}" Name="NomCap">
+                    <TextBox.Text>
+                        <Binding Path="NewPays.Capitale.Nom" Mode="OneWayToSource" UpdateSourceTrigger="PropertyChanged">
+                            <Binding.ValidationRules>
+                                <local:NotEmptyValidationRule/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+                <TextBlock Grid.Row="8" Margin="2" Foreground="Red" FontWeight="Bold" Text="{Binding ElementName=NomCap, Path=(Validation.Errors), Converter={StaticResource EToMC}}" />
+                <TextBlock DockPanel.Dock="Top" HorizontalAlignment="Right" Grid.Row="9" Style="{StaticResource Stylius}">Nombre d'habitants :</TextBlock>
+                <TextBox Grid.Column="1" Grid.Row="9" Style="{StaticResource StyliusBox}" Name="HabCap">
+                    <TextBox.Text>
+                        <Binding Path="NewPays.Capitale.Habitant" Mode="OneWayToSource" UpdateSourceTrigger="PropertyChanged">
+                            <Binding.ValidationRules>
+                                <local:NotEmptyValidationRule/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+                <TextBlock Grid.Row="9" Margin="2" Foreground="Red" FontWeight="Bold" Text="{Binding ElementName=HabCap, Path=(Validation.Errors), Converter={StaticResource EToMC}}" />
+                <TextBlock DockPanel.Dock="Top" HorizontalAlignment="Right" Grid.Row="10" Style="{StaticResource Stylius}">Superficie :</TextBlock>
+                <TextBox Grid.Column="1" Grid.Row="10" Style="{StaticResource StyliusBox}" Name="mSuperficieCap" Text="{Binding Path=NewPays.Capitale.Superficie, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged, FallbackValue=0}"></TextBox>
+                <TextBlock DockPanel.Dock="Top" HorizontalAlignment="Right" Grid.Row="11" Style="{StaticResource Stylius}">PIB :</TextBlock>
+                <TextBox Grid.Column="1" Grid.Row="11" Style="{StaticResource StyliusBox}" Name="mDensiteCap" Text="{Binding Path=NewPays.Capitale.Densite, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged, FallbackValue=0}"></TextBox>
+            </Grid>
+            
+            <DockPanel DockPanel.Dock="Top"/>
+        </DockPanel>
+
+    </Grid>
+</Window>

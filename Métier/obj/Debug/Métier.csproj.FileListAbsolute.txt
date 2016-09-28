@@ -1,0 +1,32 @@
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Métier\bin\Debug\Métier.dll
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Métier\bin\Debug\Métier.pdb
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Métier\obj\Debug\Métier.dll
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Métier\obj\Debug\Métier.pdb
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Métier\bin\Debug\Métier.dll
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Métier\bin\Debug\Métier.pdb
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Métier\obj\Debug\Métier.csprojResolveAssemblyReference.cache
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Métier\obj\Debug\Métier.dll
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Métier\obj\Debug\Métier.pdb
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Métier\bin\Debug\Métier.dll
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Métier\bin\Debug\Métier.pdb
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Métier\obj\Debug\Métier.dll
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Métier\obj\Debug\Métier.pdb
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Métier\obj\Debug\Métier.csprojResolveAssemblyReference.cache
+C:\Users\Aurélien\Desktop\Paysologue\Métier\bin\Debug\Métier.dll
+C:\Users\Aurélien\Desktop\Paysologue\Métier\bin\Debug\Métier.pdb
+C:\Users\Aurélien\Desktop\Paysologue\Métier\obj\Debug\Métier.csprojResolveAssemblyReference.cache
+C:\Users\Aurélien\Desktop\Paysologue\Métier\obj\Debug\Métier.dll
+C:\Users\Aurélien\Desktop\Paysologue\Métier\obj\Debug\Métier.pdb
+C:\Users\Aurélien\Desktop\ProjetFinal\Métier\bin\Debug\Métier.dll
+C:\Users\Aurélien\Desktop\ProjetFinal\Métier\bin\Debug\Métier.pdb
+C:\Users\Aurélien\Desktop\ProjetFinal\Métier\obj\Debug\Métier.csprojResolveAssemblyReference.cache
+C:\Users\Aurélien\Desktop\ProjetFinal\Métier\obj\Debug\Métier.dll
+C:\Users\Aurélien\Desktop\ProjetFinal\Métier\obj\Debug\Métier.pdb
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Métier\bin\Debug\Métier.dll
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Métier\bin\Debug\Métier.pdb
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Métier\obj\Debug\Métier.dll
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Métier\obj\Debug\Métier.pdb
+C:\Users\Windows\Desktop\ProjetFinalNew\Métier\bin\Debug\Métier.dll
+C:\Users\Windows\Desktop\ProjetFinalNew\Métier\bin\Debug\Métier.pdb
+C:\Users\Windows\Desktop\ProjetFinalNew\Métier\obj\Debug\Métier.dll
+C:\Users\Windows\Desktop\ProjetFinalNew\Métier\obj\Debug\Métier.pdb

@@ -1,0 +1,188 @@
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Paysologue\obj\Debug\MainWindow.baml
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Paysologue\obj\Debug\NewMonument.baml
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Paysologue\obj\Debug\NewPays.baml
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Paysologue\obj\Debug\MainWindow.g.cs
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Paysologue\obj\Debug\NewMonument.g.cs
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Paysologue\obj\Debug\NewPays.g.cs
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Paysologue\obj\Debug\App.g.cs
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Paysologue\obj\Debug\Paysologue_MarkupCompile.cache
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Paysologue\obj\Debug\Paysologue.g.resources
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Paysologue\obj\Debug\Paysologue.Properties.Resources.resources
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Paysologue\obj\Debug\Paysologue.csproj.GenerateResource.Cache
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Paysologue\bin\Debug\Paysologue.exe.config
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Paysologue\bin\Debug\Paysologue.exe
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Paysologue\bin\Debug\Paysologue.pdb
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Paysologue\bin\Debug\Métier.dll
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Paysologue\bin\Debug\Métier.pdb
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Paysologue\obj\Debug\Paysologue.csprojResolveAssemblyReference.cache
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Paysologue\obj\Debug\Paysologue.exe
+C:\Users\Aurélien\documents\visual studio 2013\Projects\Paysologue\Paysologue\obj\Debug\Paysologue.pdb
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Paysologue\bin\Debug\Paysologue.exe.config
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Paysologue\obj\Debug\Paysologue.exe
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Paysologue\obj\Debug\Paysologue.pdb
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Paysologue\bin\Debug\Paysologue.exe
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Paysologue\bin\Debug\Paysologue.pdb
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Paysologue\bin\Debug\Métier.dll
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Paysologue\bin\Debug\Métier.pdb
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Paysologue\obj\Debug\Paysologue.csprojResolveAssemblyReference.cache
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Paysologue\obj\Debug\MainWindow.baml
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Paysologue\obj\Debug\NewMonument.baml
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Paysologue\obj\Debug\NewPays.baml
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Paysologue\obj\Debug\MainWindow.g.cs
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Paysologue\obj\Debug\NewMonument.g.cs
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Paysologue\obj\Debug\NewPays.g.cs
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Paysologue\obj\Debug\App.g.cs
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Paysologue\obj\Debug\Paysologue_MarkupCompile.cache
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Paysologue\obj\Debug\Paysologue.g.resources
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Paysologue\obj\Debug\Paysologue.Properties.Resources.resources
+C:\Users\Aurélien\Desktop\Projet\Paysologue\Paysologue\obj\Debug\Paysologue.csproj.GenerateResource.Cache
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\bin\Debug\Paysologue.exe.config
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\bin\Debug\Paysologue.exe
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\bin\Debug\Paysologue.pdb
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\bin\Debug\Métier.dll
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\bin\Debug\Métier.pdb
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\obj\Debug\Paysologue.csprojResolveAssemblyReference.cache
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\obj\Debug\MainWindow.baml
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\obj\Debug\NewMonument.baml
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\obj\Debug\MainWindow.g.cs
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\obj\Debug\NewMonument.g.cs
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\obj\Debug\NewPays.g.cs
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\obj\Debug\App.g.cs
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\obj\Debug\Paysologue_MarkupCompile.cache
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\obj\Debug\Paysologue_MarkupCompile.lref
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\obj\Debug\NewPays.baml
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\obj\Debug\Paysologue.g.resources
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\obj\Debug\Paysologue.Properties.Resources.resources
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\obj\Debug\Paysologue.csproj.GenerateResource.Cache
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\obj\Debug\Paysologue.exe
+D:\Documents\IUT\C#\TP\Projet\Projet\Paysologue\Paysologue\obj\Debug\Paysologue.pdb
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\bin\Debug\Paysologue.exe.config
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\obj\Debug\Paysologue.exe
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\obj\Debug\Paysologue.pdb
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\bin\Debug\Paysologue.exe
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\bin\Debug\Paysologue.pdb
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\bin\Debug\Métier.dll
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\bin\Debug\Métier.pdb
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\obj\Debug\Paysologue.csprojResolveAssemblyReference.cache
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\obj\Debug\MainWindow.baml
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\obj\Debug\NewMonument.baml
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\obj\Debug\MainWindow.g.cs
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\obj\Debug\NewMonument.g.cs
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\obj\Debug\NewPays.g.cs
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\obj\Debug\App.g.cs
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\obj\Debug\Paysologue_MarkupCompile.cache
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\obj\Debug\Paysologue_MarkupCompile.lref
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\obj\Debug\NewPays.baml
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\obj\Debug\Paysologue.g.resources
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\obj\Debug\Paysologue.Properties.Resources.resources
+C:\Users\Aurélien\Desktop\Paysologue\Paysologue\obj\Debug\Paysologue.csproj.GenerateResource.Cache
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\bin\Debug\Paysologue.exe.config
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\obj\Debug\Paysologue.exe
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\obj\Debug\Paysologue.pdb
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\bin\Debug\Paysologue.exe
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\bin\Debug\Paysologue.pdb
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\bin\Debug\Métier.dll
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\bin\Debug\Métier.pdb
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\obj\Debug\Paysologue.csprojResolveAssemblyReference.cache
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\obj\Debug\MainWindow.baml
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\obj\Debug\NewMonument.baml
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\obj\Debug\MainWindow.g.cs
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\obj\Debug\NewMonument.g.cs
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\obj\Debug\NewPays.g.cs
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\obj\Debug\App.g.cs
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\obj\Debug\Paysologue_MarkupCompile.cache
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\obj\Debug\Paysologue_MarkupCompile.lref
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\obj\Debug\NewPays.baml
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\obj\Debug\Paysologue.g.resources
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\obj\Debug\Paysologue.Properties.Resources.resources
+D:\Documents\IUT\C#\TP\Projet\Paysologue\Paysologue\obj\Debug\Paysologue.csproj.GenerateResource.Cache
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\bin\Debug\Paysologue.exe.config
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\obj\Debug\Paysologue.exe
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\obj\Debug\Paysologue.pdb
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\bin\Debug\Paysologue.exe
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\bin\Debug\Paysologue.pdb
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\bin\Debug\Métier.dll
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\bin\Debug\Métier.pdb
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\obj\Debug\Paysologue.csprojResolveAssemblyReference.cache
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\obj\Debug\MainWindow.baml
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\obj\Debug\NewMonument.baml
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\obj\Debug\MainWindow.g.cs
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\obj\Debug\NewMonument.g.cs
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\obj\Debug\NewPays.g.cs
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\obj\Debug\App.g.cs
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\obj\Debug\Paysologue_MarkupCompile.cache
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\obj\Debug\Paysologue_MarkupCompile.lref
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\obj\Debug\NewPays.baml
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\obj\Debug\Paysologue.g.resources
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\obj\Debug\Paysologue.Properties.Resources.resources
+C:\Users\Aurélien\Desktop\ProjetFinal\Paysologue\obj\Debug\Paysologue.csproj.GenerateResource.Cache
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\bin\Debug\Paysologue.exe.config
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\bin\Debug\Paysologue.exe
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\bin\Debug\Paysologue.pdb
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\bin\Debug\Métier.dll
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\bin\Debug\Métier.pdb
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\obj\Debug\MainWindow.baml
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\obj\Debug\NewMonument.baml
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\obj\Debug\MainWindow.g.cs
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\obj\Debug\NewMonument.g.cs
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\obj\Debug\NewPays.g.cs
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\obj\Debug\App.g.cs
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\obj\Debug\Paysologue_MarkupCompile.cache
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\obj\Debug\Paysologue_MarkupCompile.lref
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\obj\Debug\NewPays.baml
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\obj\Debug\Paysologue.g.resources
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\obj\Debug\Paysologue.Properties.Resources.resources
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\obj\Debug\Paysologue.csproj.GenerateResource.Cache
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\obj\Debug\Paysologue.exe
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\obj\Debug\Paysologue.pdb
+C:\Users\Windows\Desktop\ProjetFinal\Paysologue\obj\Debug\Paysologue.csprojResolveAssemblyReference.cache
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\bin\Debug\Paysologue.exe.config
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\obj\Debug\Paysologue.exe
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\obj\Debug\Paysologue.pdb
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\bin\Debug\Paysologue.exe
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\bin\Debug\Paysologue.pdb
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\bin\Debug\Métier.dll
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\bin\Debug\Métier.pdb
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\obj\Debug\Paysologue.csprojResolveAssemblyReference.cache
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\obj\Debug\MainWindow.baml
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\obj\Debug\MainWindow.g.cs
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\obj\Debug\NewMonument.g.cs
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\obj\Debug\NewPays.g.cs
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\obj\Debug\App.g.cs
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\obj\Debug\Paysologue_MarkupCompile.cache
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\obj\Debug\Paysologue_MarkupCompile.lref
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\obj\Debug\NewMonument.baml
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\obj\Debug\NewPays.baml
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\obj\Debug\Paysologue.g.resources
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\obj\Debug\Paysologue.Properties.Resources.resources
+C:\Users\Aurélien\Desktop\ProjetFinalNew\Paysologue\obj\Debug\Paysologue.csproj.GenerateResource.Cache
+H:\ProjetFinalNew\Paysologue\bin\Debug\Paysologue.exe.config
+H:\ProjetFinalNew\Paysologue\obj\Debug\Paysologue.exe
+H:\ProjetFinalNew\Paysologue\obj\Debug\Paysologue.pdb
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\obj\Debug\Paysologue.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\obj\Debug\MainWindow.baml
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\obj\Debug\MainWindow.g.cs
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\obj\Debug\NewMonument.g.cs
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\obj\Debug\NewPays.g.cs
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\obj\Debug\App.g.cs
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\obj\Debug\Paysologue_MarkupCompile.cache
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\obj\Debug\Paysologue_MarkupCompile.lref
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\bin\Debug\Paysologue.exe.config
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\bin\Debug\Paysologue.exe
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\bin\Debug\Paysologue.pdb
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\bin\Debug\Métier.dll
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\bin\Debug\Métier.pdb
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\obj\Debug\NewMonument.baml
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\obj\Debug\NewPays.baml
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\obj\Debug\Paysologue.g.resources
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\obj\Debug\Paysologue.Properties.Resources.resources
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\obj\Debug\Paysologue.csproj.GenerateResource.Cache
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\obj\Debug\Paysologue.exe
+C:\Users\Windows\Desktop\ProjetFinalNew\Paysologue\obj\Debug\Paysologue.pdb
